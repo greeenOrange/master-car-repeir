@@ -1,0 +1,13 @@
+.expert-info{
+    padding: 1rem .4rem;
+    box-shadow: 3px 5px 2px 1px rgba(240, 141, 207, 0.2);
+    border-radius: .4rem;
+}
+span{
+    font-family: 'IBM Plex Sans', sans-serif;
+}
+.expert-info img{
+    width: 100%;
+    height: 300px;
+    border-radius: .4rem;
+}

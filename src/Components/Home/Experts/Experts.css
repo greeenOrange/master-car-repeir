@@ -1,0 +1,10 @@
+.expart-container{
+    overflow-x: hidden;
+    
+}
+.expart-container h2{
+    margin: 0 auto;
+    width: 200px;
+    line-height: 4rem;
+    border-bottom: 2px solid #e22aca;
+}
