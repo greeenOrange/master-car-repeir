@@ -33,10 +33,10 @@ import { Carousel } from 'react-bootstrap';
 
 const Banner = () => {
     return (
-        <div className='my-3'>
+        <div className='mb-3'>
             <Carousel interval={1400}>
   <Carousel.Item>
-  <video id="video" muted autoplay="autoplay" loop="loop" preload="auto">
+  <video id="video" muted autoPlay="autoplay" loop="loop" preload="auto">
         <source className='video' src={video}></source>
       </video>
     <Carousel.Caption>
