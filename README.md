@@ -1,6 +1,6 @@
-# Master Car Repeir websites
+# Master Car Repeir websites 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [live link](https://master-car-repair.web.app/).
 
 ## Available Scripts
 
